@@ -1,6 +1,6 @@
 # Marlin 2.0.x for Anycubic Kossel Line Plus with BTT SKR 1.4 Board
 
-This is a customized version of Marlin 2.0.x that has been configured to work with the BTT SKR 1.4 board for the Anycubic Kossel Line Plus 3D printer. This firmware has several pin modifications to better suit the BTT SKR 1.4 and A4988 driver. 
+This is a customized version of Marlin 2.0.x that has been configured to work with the BTT SKR 1.4 board for the Anycubic Kossel Line Plus 3D printer. This firmware has several pin modifications to better suit the BTT SKR 1.4 and A4988 driver. Additionally, it has been configured to support ESP-01S. Simply build [ESP3D](https://github.com/luc-github/ESP3D) onto ESP-01S, plug it into the board, and you can operate the printer interface on a web browser. 
 
 ## Installation
 
