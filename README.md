@@ -1,13 +1,13 @@
-# Marlin 2.0.x for Anycubic Kossel Line Plus with SRK 1.4 Board
+# Marlin 2.0.x for Anycubic Kossel Line Plus with BTT SKR 1.4 Board
 
-This is a customized version of Marlin 2.0.x that has been configured to work with the SRK 1.4 board for the Anycubic Kossel Line Plus 3D printer. This firmware has several pin modifications to better suit the SKR 1.4 and A4988 driver. 
+This is a customized version of Marlin 2.0.x that has been configured to work with the BTT SKR 1.4 board for the Anycubic Kossel Line Plus 3D printer. This firmware has several pin modifications to better suit the BTT SKR 1.4 and A4988 driver. 
 
 ## Installation
 
 To install this firmware, you need to:
 - Clone this repository to your machine
 - Build the source code using an appropriate tool (e.g., PlatformIO)
-- Flash the successfully built firmware onto the SRK 1.4 board
+- Flash the successfully built firmware onto the BTT SKR 1.4 board
 
 ## Pin Configuration
 
@@ -21,10 +21,16 @@ Make sure you know what you are doing. Misconfiguration of the firmware can dama
 
 All contributions are welcome. If you discover a bug or have an improvement, please create a pull request.
 
-## License
+## Origin
 
-This firmware is distributed under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.en.html).
+This firmware is based on the original Marlin 2.0.x firmware which can be found at [Marlin Firmware Configurations](https://github.com/MarlinFirmware/Marlin).
 
 ## Contact
 
 If you have any questions or encounter any issues, please create an issue in this repository.
+
+## Images
+
+![Image 1](images/1.jpg)
+
+![Image 2](images/2.jpg)
